@@ -8,9 +8,27 @@ Proyecto Spring Boot punto 1 del taller básico.
 
 
 
-\## Endpoints
+\## Documentación API
 
-(Se llenará luego con Swagger)
+
+
+Swagger disponible en:
+
+http://localhost:8080/swagger-ui/index.html
+
+
+
+\### Endpoints:
+
+
+
+\- GET /usuarios
+
+\- POST /usuarios 
+
+\- DELETE /usuarios/{id}
+
+
 
 
 
